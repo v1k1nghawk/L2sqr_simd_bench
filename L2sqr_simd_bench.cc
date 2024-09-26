@@ -6,6 +6,7 @@
 using namespace std;
 
 
+// bb-11.4-vec-preview branch (Nightly Version):
 // https://github.com/v1k1nghawk/mariadb_server/blob/bb-11.4-vec-preview/sql/item_vectorfunc.cc#L55
 double euclidean_vec_distance(float *v1, float *v2, size_t v_len)
 {
